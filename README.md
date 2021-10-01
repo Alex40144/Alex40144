@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Electronics
 - 🌱 I’m currently learning Next.js
 
-<AlexPegg.uk>
+<https://AlexPegg.uk>
 
 <!---
 Alex40144/Alex40144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
